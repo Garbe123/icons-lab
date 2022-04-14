@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IconsApplication<icons>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.alkemy.icons.icons.IconsApplication",
+            "projectName": "icons",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
